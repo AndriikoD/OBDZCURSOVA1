@@ -1,0 +1,16 @@
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CulturalCenterManagement.MainForm.resources
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.csproj.GenerateResource.cache
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.AssemblyInfoInputs.cache
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.AssemblyInfo.cs
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\bin\Debug\net8.0-windows\CultureHouseManagement.exe
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\bin\Debug\net8.0-windows\CultureHouseManagement.deps.json
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\bin\Debug\net8.0-windows\CultureHouseManagement.runtimeconfig.json
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\bin\Debug\net8.0-windows\CultureHouseManagement.dll
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\bin\Debug\net8.0-windows\CultureHouseManagement.pdb
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.dll
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\refint\CultureHouseManagement.dll
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.pdb
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\CultureHouseManagement.genruntimeconfig.cache
+C:\Users\Andtrii Dovletbaiev\Desktop\st\Study\obzcursova\CultureHouseManagement\CultureHouseManagement\obj\Debug\net8.0-windows\ref\CultureHouseManagement.dll
